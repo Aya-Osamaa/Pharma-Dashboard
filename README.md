@@ -17,3 +17,6 @@ DAX (Data Analysis Expressions) for calculations and aggregations.
 -<a href="https://github.com/aia22/Pharma-Dashboard/blob/main/Screenshot%202025-03-17%20221216.png">Sales Performance Overview</a>
 -<a href="https://github.com/aia22/Pharma-Dashboard/blob/main/Screenshot%202025-03-17%20221231.png">Product Insights & Revenue</a>
 -<a href="https://github.com/aia22/Pharma-Dashboard/blob/main/Screenshot%202025-03-17%20221245.png">Customers % Regional Analysis</a>
+
+## Conclusion
+This project showcases how Power BI can be used to build a comprehensive sales dashboard with clear insights into business performance. It is a great example of data-driven decision-making in action.
