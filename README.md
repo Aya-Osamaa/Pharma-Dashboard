@@ -12,3 +12,8 @@ This Power BI project is an interactive Sales Performance Dashboard designed to 
 Power BI for visualization and report building.
 Power Query for data transformation.
 DAX (Data Analysis Expressions) for calculations and aggregations.
+
+## Dashboard
+-<a href="https://github.com/aia22/Pharma-Dashboard/blob/main/Screenshot%202025-03-17%20221216.png">Sales Performance Overview</a>
+-<a href="https://github.com/aia22/Pharma-Dashboard/blob/main/Screenshot%202025-03-17%20221231.png">Product Insights & Revenue</a>
+-<a href="https://github.com/aia22/Pharma-Dashboard/blob/main/Screenshot%202025-03-17%20221245.png">Customers % Regional Analysis</a>
