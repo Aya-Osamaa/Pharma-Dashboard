@@ -16,7 +16,7 @@ DAX (Data Analysis Expressions) for calculations and aggregations.
 ## Dashboard
 -<a href="https://github.com/Aya-Osamaa/Pharma-Dashboard/blob/main/Screenshot%202025-03-17%20221216.png">Sales Performance Overview</a>
 -<a href="https://github.com/Aya-Osamaa/Pharma-Dashboard/blob/main/Screenshot%202025-03-17%20221231.png">Product Insights & Revenue</a>
--<a href="https://github.com/Aya-Osamaa/Pharma-Dashboard/blob/main/Screenshot%202025-03-17%20221245.png">Customers % Regional Analysis</a>
+-<a href="https://github.com/Aya-Osamaa/Pharma-Dashboard/blob/main/Screenshot%202025-03-17%20221245.png">Customers & Regional Analysis</a>
 
 ## Dataset
 -<a href="https://github.com/Aya-Osamaa/Pharma-Dashboard/blob/main/Pharma-Data.zip">Dataset zip file</a>
